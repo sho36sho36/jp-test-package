@@ -1,0 +1,9 @@
+﻿{
+  "name": "jp-test-package",
+  "version": "1.0.0",
+  "description": "Japanese Language v2.2.0用のテストパッケージ",
+  "author": "sho36sho36",
+  "main": "src/main.jp",
+  "license": "MIT",
+  "repository": "https://github.com/sho36sho36/jp-test-package"
+}
